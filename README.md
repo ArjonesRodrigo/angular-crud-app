@@ -1,3 +1,4 @@
+https://img.shields.io/github/repo-size/ArjonesRodrigo/angular-crud-app
 # angular-crud-app
 Atividade prática na disciplina "Desenvolvimento WEB".
 
